@@ -1,2 +1,0 @@
-# .github
-Edinburgh atmospheric observatory
