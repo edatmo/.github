@@ -1,4 +1,4 @@
-# EdAtmO - Edinburgh Atmospheric Observatory
+# EdAtmO - Edinburgh Atmospheric Observatory (placeholder name)
 
 ## Summary
 This github organisation draws together all information relating to the collection and processing of atmospheric observations in Edinburgh. Information is grouped into individual repositories (fancy folders). 
